@@ -2,8 +2,8 @@
 
 Simple recursive descent parser for math expressions.
   - for more information:
-    https://en.wikipedia.org/wiki/Recursive_descent_parser
-    https://github.com/ArashPartow/math-parser-benchmark-project
+    - <https://en.wikipedia.org/wiki/Recursive_descent_parser>
+    - <https://github.com/ArashPartow/math-parser-benchmark-project>
 
 ## Features
 
